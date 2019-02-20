@@ -4,3 +4,5 @@ new changes in 1st layer branch after 2nd branching
 new changes in MASTER to test branching
 
 Seems like we'vejust learned how to branch repos! Congrats!
+
+Hello my dear friend
