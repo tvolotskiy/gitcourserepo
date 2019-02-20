@@ -1,3 +1,4 @@
 hello new
 buy2 test edit
 new changes in 1st layer branch after 2nd branching
+new changes in MASTER to test branching
